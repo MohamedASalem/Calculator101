@@ -29,6 +29,7 @@ body{
   background-color: #eee;
   padding: 20px;
   font-size: 48px;
+  min-height: 120px;
 }
 
 .btn{
